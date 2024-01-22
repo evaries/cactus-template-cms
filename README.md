@@ -33,9 +33,10 @@ Astro Cactus is a simple opinionated starter built with the Astro framework. Use
 
 ## Demo 💻
 
-Check out the [Demo](#), hosted on Netlify
+Check out the [Demo](https://cactus-basic.netlify.app/), hosted on Netlify
 
 ## Preview
+
 <img width="1429" alt="dark theme" src="https://github.com/evaries/cactus-template-basic/assets/28657644/f9695066-222f-4503-bea4-5ca2eca2efb5">
 <img width="1434" alt="light theme" src="https://github.com/evaries/cactus-template-basic/assets/28657644/e499295f-0dab-47fb-b03c-0584603bbea2">
 
