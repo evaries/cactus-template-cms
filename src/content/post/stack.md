@@ -1,14 +1,12 @@
 ---
 
-title: "A working draft title"
+title: "Welcome to StackEdit!"
 
-description: "This post is for testing the draft post functionality"
+description: "Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. "
 
-publishDate: "10 Sept 2023"
+publishDate: "23 January 2024"
 
 tags: ["test"]
-
-draft: true
 
 ---
 
