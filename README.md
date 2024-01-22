@@ -136,3 +136,4 @@ import { GoogleAnalytics } from "astro-google-analytics";
 ## Acknowledgment
 
 This theme was inspired by [Hexo Theme Cactus](https://github.com/probberechts/hexo-theme-cactus)
+Based on this [repo](https://github.com/chrismwilliams/astro-theme-cactus)
