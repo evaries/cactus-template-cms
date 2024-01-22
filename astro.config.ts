@@ -11,7 +11,7 @@ import icon from "astro-icon";
 // https://astro.build/config
 export default defineConfig({
 	// ! Please remember to replace the following site property with your own domain
-	site: "http://localhost:4321",
+	site: "https://cactus-basic.netlify.app",
 	markdown: {
 		remarkPlugins: [remarkUnwrapImages, remarkReadingTime],
 		rehypePlugins: [
