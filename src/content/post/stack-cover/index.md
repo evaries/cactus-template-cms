@@ -6,7 +6,6 @@ tags: ["test"]
 coverImage:
   src: "./cover.jpg"
   alt: "Astro build cover"
-draft: true
 ---
 
 # Welcome to StackEdit!
