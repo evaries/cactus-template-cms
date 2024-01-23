@@ -2,7 +2,7 @@
 title: "Welcome to StackEdit!"
 description: "Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. "
 publishDate: "23 January 2024"
-tags: ["test"]
+tags: "test"
 coverImage:
   src: "./cover.jpg"
   alt: "Astro build cover"
