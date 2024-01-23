@@ -15,10 +15,6 @@ Following is an example blog post written in an mdx file. You can find me @ src/
 
 Here we have a simple js code block.
 
-```js
-let string = "JavaScript syntax highlighting";
-```
-
 This is styled by Shiki, set via the [config](https://docs.astro.build/en/guides/markdown-content/#syntax-highlighting) for Astro.
 
 You can choose your own theme from this [library](https://github.com/shikijs/shiki/blob/main/docs/themes.md#all-themes), which is currently set to Dracula, in the file `astro.config.mjs`.
