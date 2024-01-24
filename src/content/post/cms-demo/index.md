@@ -3,11 +3,11 @@ title: CMS Demo
 description: Here is post from CMS demo vid
 publishDate: 24 Jan 2024
 updatedDate: ""
-draft: true
+draft: false
 coverImage:
   src: public/assets/blog/cover.jpg
   alt: cover
-tags: ""
+tags: cms, test
 ---
 ## This is a H2 Heading
 ### This is a H3 Heading
