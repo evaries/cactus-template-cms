@@ -7,7 +7,7 @@ draft: false
 coverImage:
   src: public/assets/blog/cover.jpg
   alt: cover
-tags: ""
+tags: cms, test
 ---
 ## This is a H2 Heading
 ### This is a H3 Heading
