@@ -5,8 +5,8 @@ publishDate: 24 Jan 2024
 updatedDate: ""
 draft: true
 coverImage:
-  src: ""
-  alt: ""
+  src: public/assets/blog/cover.jpg
+  alt: cover
 tags: ""
 ---
 ## This is a H2 Heading
